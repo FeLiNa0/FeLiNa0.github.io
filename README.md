@@ -1,2 +1,11 @@
-# FeLiNa0.github.io
-gh pages
+# FeLiNa0
+
+- felina.art
+- felina.cloud
+- felina@felina.cloud
+- felina.art
+elina.art
+- linkedin.com/in/felina-andrea
+
+
+
