@@ -3,8 +3,9 @@
 - felina.art
 - felina.cloud
 - felina@felina.cloud
-- felina.art
-elina.art
+- felina@felina.art
+
+
 - linkedin.com/in/felina-andrea
 
 
