@@ -4,7 +4,8 @@ body {
   background: #ff1694;
 }
 a {
-  color: #03ffd6;
+  color: #18006d;
+  font-weight: bolder;
 }
 </style>
 
