@@ -15,8 +15,8 @@ Welcome to my site!
 
 - [felina.art](https://felina.art)
 - [felina.cloud](https://felina.cloud)
-- [felina@felina.cloud](mailto:felina@felina.cloud)
-- [felina@felina.art](mailto:felina@felina.art)
+- felina åt felina.cloud
+- felina ąt felina.art
 - [Felina Andrea Rivera Calzadillas on LinkedIn](https://linkedin.com/in/felina-andrea)
 
 ![](./felina_icon.png)
