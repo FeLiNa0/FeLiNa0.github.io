@@ -10,8 +10,12 @@ a {
   font-weight: bolder;
 }
 /* why jekyll or github, why... */
-.markdown-body img {
-    background-color: none;
+img, .markdown-body img {
+    /* change to transparent */
+}
+img[src*="felina_icon.png"] {
+    background-color: #0000;
+    max-width: 128px;
 }
 </style>
 
@@ -27,4 +31,4 @@ I am Felina Andrea Rivera Calzadillas.
 - [felina.cloud](https://felina.cloud)
 - [LinkedIn](https://linkedin.com/in/felina-andrea)
 
-![](./felina_icon.png)
+![My personal icon saying my name Felina with "Fe" in bold text, and "lina" in smaller cursive text.](./felina_icon.png)
