@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="felina_icon.svg"
+   inkscape:export-filename="felina_icon.png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showborder="true"
+     inkscape:zoom="2.1946698"
+     inkscape:cx="109.12803"
+     inkscape:cy="77.688224"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid221" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path391"
+       style="fill:none;fill-opacity:1;stroke:#ff1694;stroke-width:4.54654;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-2.3537176"
+       inkscape:transform-center-y="1.322207"
+       d="M 47.307423,2.275275 19.67138,2.3255297 2.4532918,24.545692 8.6187353,52.203529 33.525005,64.472122 58.41717,52.112975 64.550922,24.432772 Z" />
+    <path
+       id="path111"
+       style="fill:#ff1694;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="-2.285845"
+       inkscape:transform-center-y="1.2828808"
+       d="M 46.943524,2.114756 20.104407,2.1635161 3.3828292,23.722779 9.3704829,50.557978 33.558541,62.461664 57.732903,50.470117 63.68978,23.613216 Z" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.6933px;fill:none;stroke:#000000;stroke-width:0.254218;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="18.957581"
+       y="24.089497"
+       id="text1289"><tspan
+         sodipodi:role="line"
+         id="tspan1287"
+         style="stroke-width:0.254218"
+         x="18.957581"
+         y="24.089497" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:45.7594px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';letter-spacing:-1.7323px;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.65114;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="5.9056773"
+       y="44.450829"
+       id="text1235"><tspan
+         sodipodi:role="line"
+         id="tspan1233"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:45.7594px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';fill:none;fill-opacity:1;stroke:#000000;stroke-width:3.65114;stroke-dasharray:none;stroke-opacity:1"
+         x="5.9056773"
+         y="44.450829">Fe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:900;font-size:37.2854px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro Heavy';mix-blend-mode:difference;fill:#ff1694;fill-opacity:1;stroke:none;stroke-width:1.24907;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="11.801803"
+       y="57.198185"
+       id="text422"><tspan
+         sodipodi:role="line"
+         id="tspan420"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.2854px;font-family:Cookie;-inkscape-font-specification:Cookie;fill:#ff1694;fill-opacity:1;stroke:none;stroke-width:1.24907;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="11.801803"
+         y="57.198185">lina</tspan></text>
+  </g>
+</svg>

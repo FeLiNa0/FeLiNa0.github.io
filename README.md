@@ -1,12 +1,12 @@
 <style>
 body {
-  color: #401439;
-  background: #ff1694;
+  background: black;
+  color: #ff1694;
   width: 25em;
   margin: auto;
 }
 a {
-  color: #18006d;
+  color: #8265ea;
   font-weight: bolder;
 }
 /* why jekyll or github, why... */
@@ -23,12 +23,34 @@ img[src*="felina_icon.png"] {
 
 Welcome to my site!
 
+Bienvenidos, internautas, a mi sitio web.
+
+Mi nombre es Felina Andrea Rivera Calzadillas.
+
 I am Felina Andrea Rivera Calzadillas.
 
-- felina åt felina.cloud
-- felina ąt felina.art
 - [felina.art](https://felina.art)
 - [felina.cloud](https://felina.cloud)
+- [FeLiNa0 on GitHub](https://github.com/FeLiNa0)
 - [LinkedIn](https://linkedin.com/in/felina-andrea)
+- felina åt felina.cloud
+- felina ąt felina.art
 
-![My personal icon saying my name Felina with "Fe" in bold text, and "lina" in smaller cursive text.](./felina_icon.png)
+![My personal icon saying my name Felina with "Fe" in bold text, and "lina" in small and fine cursive text underneath that. From a distance, only the letters Fe are visible, as the chemical symbol for Iron.](./felina_icon.png)
+
+## Name
+
+Some girls are made of sugar and spice, some are made of **Fe**rrite, **Li**thium, and **Na**trium. Blood, neurodivergence, and sweat.
+
+My full name is Felina Andrea Rivera Calzadillas. I prefer the Spanish pronunciation.
+
+I use Felina A. Rivera for the sake of conciseness and memorability.
+
+Many institutions are unaware of or unwilling to accommodate the rich diversity of personal names around the world; therefore, I may also use:
+
+- Felina Rivera
+- Felina Andrea Rivera
+- Felina A. Rivera Calzadillas
+- Rivera Calzadillas
+
+This article from the [W3C](https://www.w3.org/) describes how computers *should* be reading and storing names: ["How do people's names differ around the world, and what are the implications of those differences on the design of forms, databases, ontologies, etc. for the Web?"](https://www.w3.org/International/questions/qa-personal-names)
