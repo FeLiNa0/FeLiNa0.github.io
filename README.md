@@ -18,11 +18,18 @@ img[src*="felina_icon.png"] {
     max-width: 128px;
 }
 footer {
-  height: 50vh;
+  min-height: 95vh;
+}
+footer img {
+  text-align: center;
+  margin: auto;
+  margin-top: 50vh;
+  display: block;
+  width: 20%;
 }
 </style>
 
-# FeLiNa0
+## FeLiNa0
 
 Welcome to my site!
 
@@ -59,5 +66,5 @@ Many institutions are unaware of or unwilling to accommodate the rich diversity 
 This article from the [W3C](https://www.w3.org/) describes how computers *should* be reading and storing names: ["How do people's names differ around the world, and what are the implications of those differences on the design of forms, databases, ontologies, etc. for the Web?"](https://www.w3.org/International/questions/qa-personal-names)
 
 <footer>
-<img alt="My personal icon." src="felina_icon.png">
+<img alt='My personal icon saying my name Felina with "Fe" in bold text, and "lina" in small and fine cursive text underneath that. From a distance, only the letters Fe are visible, as the chemical symbol for Iron.' src="felina_icon.png">
 </footer>
