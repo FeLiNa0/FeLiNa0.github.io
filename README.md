@@ -23,7 +23,7 @@ footer {
 footer img {
   text-align: center;
   margin: auto;
-  margin-top: 50vh;
+  margin-top: 20vh;
   display: block;
   width: 20%;
 }
