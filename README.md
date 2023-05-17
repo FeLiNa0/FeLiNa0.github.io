@@ -67,6 +67,18 @@ This article from the [W3C](https://www.w3.org/) describes how computers *should
 
 My name is not Celina Rivera Calzadillas or Merlina Rivera Calzadillas or Melina Rivera Calzadillas or Evelina Rivera Calzadillas or Selina Rivera Calzadillas, but they're listed here to avoid confusion.
 
+## Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.permalink }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>   
+
+
 <footer>
 <img alt='My personal icon saying my name Felina with "Fe" in bold text, and "lina" in small and fine cursive text underneath that. From a distance, only the letters Fe are visible, as the chemical symbol for Iron.' src="felina_icon.png">
 </footer>
