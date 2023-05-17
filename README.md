@@ -71,13 +71,14 @@ My name is not Celina Rivera Calzadillas or Merlina Rivera Calzadillas or Melina
   {% for post in site.posts %}
     <li>
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p><a href="{{ post.url }}">{{ post.date }}</a></p>
+      <p><a href="{{ post.url }}">{{ post.date | date_to_long_string }}</a></p>
       <p>{{ post.excerpt }} <a href="{{ post.url }}">(view more)</a></p>
     </li>
   {% endfor %}
 </ul>   
 
-
 <footer>
+<p>Felina A. Rivera Calzadillas. The opinions expressed herein are my own and do not represent my employer’s views in any way. Written using Martanne's Vis editor and conveniently deployed with GitHub pages.</p>
+
 <img alt='My personal icon saying my name Felina with "Fe" in bold text, and "lina" in small and fine cursive text underneath that. From a distance, only the letters Fe are visible, as the chemical symbol for Iron.' src="felina_icon.png">
 </footer>
