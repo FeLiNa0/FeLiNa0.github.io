@@ -29,9 +29,9 @@ footer img {
 }
 </style>
 
-Welcome to my site!
+*Welcome to my site!* Bienvenidos, internautas, a mi sitio web.
 
-Bienvenidos, internautas, a mi sitio web.
+![My personal icon saying my name Felina with "Fe" in bold text, and "lina" in small and fine cursive text underneath that. From a distance, only the letters Fe are visible, as the chemical symbol for Iron.](./felina_icon.png)
 
 Mi nombre es Felina Andrea Rivera Calzadillas.
 
@@ -43,8 +43,6 @@ I am Felina Andrea Rivera Calzadillas.
 - [LinkedIn](https://linkedin.com/in/felina-andrea)
 - felina åt felina.cloud
 - felina ąt felina.art
-
-![My personal icon saying my name Felina with "Fe" in bold text, and "lina" in small and fine cursive text underneath that. From a distance, only the letters Fe are visible, as the chemical symbol for Iron.](./felina_icon.png)
 
 ## Name
 
@@ -78,7 +76,7 @@ My name is not Celina Rivera Calzadillas or Merlina Rivera Calzadillas or Melina
 </ul>   
 
 <footer>
-<p>Felina A. Rivera Calzadillas. The opinions expressed herein are my own and do not represent my employer’s views in any way. Written using Martanne's Vis editor and conveniently deployed with GitHub pages.</p>
+<p><sub>Felina A. Rivera Calzadillas. The opinions expressed herein are my own and do not represent my employer’s views in any way. Written using Martanne's Vis editor and conveniently deployed with GitHub pages.</sub></p>
 
 <img alt='My personal icon saying my name Felina with "Fe" in bold text, and "lina" in small and fine cursive text underneath that. From a distance, only the letters Fe are visible, as the chemical symbol for Iron.' src="felina_icon.png">
 </footer>
