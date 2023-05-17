@@ -18,12 +18,12 @@ img[src*="felina_icon.png"] {
     max-width: 128px;
 }
 footer {
-  min-height: 95vh;
+  min-height: 70vh;
 }
 footer img {
   text-align: center;
   margin: auto;
-  margin-top: 20vh;
+  margin-top: 15vh;
   display: block;
   width: 20%;
 }
