@@ -29,8 +29,6 @@ footer img {
 }
 </style>
 
-## FeLiNa0
-
 Welcome to my site!
 
 Bienvenidos, internautas, a mi sitio web.
@@ -72,7 +70,7 @@ My name is not Celina Rivera Calzadillas or Merlina Rivera Calzadillas or Melina
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.permalink }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}

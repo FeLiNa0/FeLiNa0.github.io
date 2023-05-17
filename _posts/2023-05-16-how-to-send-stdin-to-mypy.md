@@ -1,9 +1,15 @@
-# How to send stdin (standard input) to mypy
+---
+title: How to send stdin (standard input) to mypy
+layout: post
+permalink: /how-to-send-stdin-to-mypy
+---
 
-Use this command with a shell that supports [process substitution](https://en.wikipedia.org/wiki/Process_substitution) (e.g. Bash):
+Use this command with a shell that supports [process substitution](https://en.wikipedia.org/wiki/Process_substitution) (e.g. Bash): `mypy <(cat)`.
+
+For example:
 
 ```
-mypy <(cat)
+echo "1 + 'a'" | mypy <(cat)
 ```
 
 This will redirect text input from `stdin` ([standard input](https://pubs.opengroup.org/onlinepubs/9699919799/functions/stdin.html)) to `mypy` for type checking.
