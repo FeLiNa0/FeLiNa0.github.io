@@ -70,8 +70,9 @@ My name is not Celina Rivera Calzadillas or Merlina Rivera Calzadillas or Melina
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <p><a href="{{ post.url }}">{{ post.date }}</a></p>
+      <p>{{ post.excerpt }} <a href="{{ post.url }}">(view more)</a></p>
     </li>
   {% endfor %}
 </ul>   
