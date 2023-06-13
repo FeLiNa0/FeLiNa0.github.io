@@ -40,6 +40,7 @@ I am Felina Andrea Rivera Calzadillas.
 - [felina.art](https://felina.art)
 - [felina.cloud](https://felina.cloud)
 - [FeLiNa0 on GitHub](https://github.com/FeLiNa0)
+- [My company on LinkedIn](https://linkedin.com/company/felina-llc)
 - [LinkedIn](https://linkedin.com/in/felina-andrea)
 - felina åt felina.cloud
 - felina ąt felina.art
